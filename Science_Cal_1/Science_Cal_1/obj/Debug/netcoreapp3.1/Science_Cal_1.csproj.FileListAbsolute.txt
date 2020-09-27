@@ -1,0 +1,13 @@
+C:\Users\Роман\source\repos\Science_Cal_1\Science_Cal_1\bin\Debug\netcoreapp3.1\Science_Cal_1.exe
+C:\Users\Роман\source\repos\Science_Cal_1\Science_Cal_1\bin\Debug\netcoreapp3.1\Science_Cal_1.deps.json
+C:\Users\Роман\source\repos\Science_Cal_1\Science_Cal_1\bin\Debug\netcoreapp3.1\Science_Cal_1.runtimeconfig.json
+C:\Users\Роман\source\repos\Science_Cal_1\Science_Cal_1\bin\Debug\netcoreapp3.1\Science_Cal_1.runtimeconfig.dev.json
+C:\Users\Роман\source\repos\Science_Cal_1\Science_Cal_1\bin\Debug\netcoreapp3.1\Science_Cal_1.dll
+C:\Users\Роман\source\repos\Science_Cal_1\Science_Cal_1\bin\Debug\netcoreapp3.1\Science_Cal_1.pdb
+C:\Users\Роман\source\repos\Science_Cal_1\Science_Cal_1\obj\Debug\netcoreapp3.1\Science_Cal_1.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\Science_Cal_1\Science_Cal_1\obj\Debug\netcoreapp3.1\Science_Cal_1.AssemblyInfoInputs.cache
+C:\Users\Роман\source\repos\Science_Cal_1\Science_Cal_1\obj\Debug\netcoreapp3.1\Science_Cal_1.AssemblyInfo.cs
+C:\Users\Роман\source\repos\Science_Cal_1\Science_Cal_1\obj\Debug\netcoreapp3.1\Science_Cal_1.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\Science_Cal_1\Science_Cal_1\obj\Debug\netcoreapp3.1\Science_Cal_1.dll
+C:\Users\Роман\source\repos\Science_Cal_1\Science_Cal_1\obj\Debug\netcoreapp3.1\Science_Cal_1.pdb
+C:\Users\Роман\source\repos\Science_Cal_1\Science_Cal_1\obj\Debug\netcoreapp3.1\Science_Cal_1.genruntimeconfig.cache
